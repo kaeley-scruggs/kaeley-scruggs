@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaeley-scruggs
 - 👀 I’m interested in IT automation
-- 🌱 I’m currently learning Python and studying for Security+
+- 🌱 I’m currently
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me kaeley.scruggs@gmail.com
 
